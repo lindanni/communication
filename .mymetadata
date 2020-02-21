@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="communication"
+  id="myeclipse.1525927224780"
+  context-root="/communication"
+  j2ee-spec="5.0"
+  archive="communication.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
